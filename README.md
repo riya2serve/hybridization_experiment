@@ -1,2 +1,2 @@
-# hybridization_experiment
-This repository contains my scripts, etc. related to the Amaranthus research I am doing 
+
+ This repo contains scripts related to my Amaranthus research
